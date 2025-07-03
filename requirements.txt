@@ -1,0 +1,2 @@
+fastai
+duckduckgo_search>=6.2
